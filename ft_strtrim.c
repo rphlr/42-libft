@@ -29,7 +29,7 @@ char	*ft_strtrim(char const *s1, char const *set)
 			rear--;
 		str = (char *)malloc(sizeof(char) * (rear - front + 1));
 		if (str)
-			ft_strlcpy(str, &s1[front], rear - front + 1);
+			(str, &s1[front], rear - front + 1);
 	}
 	return (str);
 }
