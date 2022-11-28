@@ -66,4 +66,4 @@ Any reproduction, use outside the school context of 42 or without authorization 
 
 ---
 
-This module was done by [rphlr](https://rphlr.ch)
+This module was done by [rphlr](https://rphlr.ch).
