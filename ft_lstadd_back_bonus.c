@@ -12,6 +12,12 @@
 
 #include "libft.h"
 
+/**
+* @notice	This function adds a value at the end of a list.
+* @param	t_list	The list.
+* @param	t_list	The value.
+* @return	void	No return value needed.
+*/
 void	ft_lstadd_back(t_list **lst, t_list *new)
 {
 	t_list	*tmp;

@@ -12,6 +12,12 @@
 
 #include "libft.h"
 
+/**
+* @notice	This function delete something in a list.
+* @param	t_list	The list.
+* @param	ft		The function to delete just one thing in a list.
+* @return	void	No return value needed.
+*/
 void	ft_lstdelone(t_list *lst, void (*del)(void *))
 {
 	if (lst == NULL || del == NULL)
