@@ -7,7 +7,9 @@
 	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rphlr/42-libft?color=green&logo=github&logoColor=green&style=flat-square">
 </p>
 
----
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 # 💡 About the project
 
@@ -15,7 +17,9 @@
 
 	This project is finished and I've got 100% with outstanding notes ! 😁
 
----
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 # 🛠️ Usage
 
@@ -45,6 +49,10 @@ $ make test
 $ make fclean
 ```
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## My libft project evaluation
 
 <div align="center">
@@ -55,13 +63,23 @@ $ make fclean
 
 </div>
 
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
+
 ## All my 42 cursus projects
 To have a look on all my 42 school projects, just [click here](https://github.com/rphlr/42-School). I've list my C piscine modules and all my 42 cursus with some usefuls links too.
+
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 ## Subjects
 __All these subjects are the exclusive property of 42 School.__<br />
 Any reproduction, use outside the school context of 42 or without authorization is prohibited and may be treated as copyright infringement.
 
----
+<div align="center" style="text-align:center">
+	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">
+</div>
 
 This module was done by [rphlr](https://rphlr.ch).
