@@ -15,7 +15,11 @@
 
 > _This exercise allows to consolidate the knowledge of the C pool. Indeed, it consists in recoding a certain number of functions of the standard C library as well as other functions that could be useful later on._
 
-	This project is finished and I've got 100% with outstanding notes ! 😁
+	This project is finished !
+	
+[francinette](https://github.com/xicodomingues/francinette) is happy even with the strict parameter 🙂
+
+![francinette](Francinette.png)
 
 <div align="center" style="text-align:center">
 	<img src="https://raw.githubusercontent.com/rphlr/rphlr/main/imgs/separator.gif" alt="Separator" width ="200">

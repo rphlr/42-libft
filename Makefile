@@ -6,7 +6,7 @@
 #    By: rrouille <rrouille@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/10/28 17:27:55 by rrouille          #+#    #+#              #
-#    Updated: 2022/11/28 13:34:14 by rrouille         ###   ########.fr        #
+#    Updated: 2022/12/23 20:06:35 by rrouille         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -102,6 +102,10 @@ test:
 			@echo "${RED}Running francinette...${DEFCOLOR}"
 			@echo ""
 			@/Users/$(USER)/francinette/tester.sh
+			@echo "...${DEFCOLOR}"
+			@echo "${RED}Running francinette with strict option...${DEFCOLOR}"
+			@echo ""
+			@/Users/$(USER)/francinette/tester.sh --strict
 			@echo "...${DEFCOLOR}"
 			@echo "${GREEN}Testing Done congrats !${DEFCOLOR}"
 

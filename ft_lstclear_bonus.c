@@ -31,4 +31,5 @@ void	ft_lstclear(t_list **lst, void (*del)(void *))
 		del(tmp->content);
 		free(tmp);
 	}
+	*lst = NULL;
 }
